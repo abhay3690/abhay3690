@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/abhay suthar" target="blank"><img src="https://img.shields.io/twitter/follow/abhay suthar?logo=twitter&style=for-the-badge" alt="abhay suthar" /></a> </p>
 
-- 🌱 I’m currently learning **Spring-Boot, React.js**
+- 🌱 I’m Working in **Spring-Boot, React.js**
 
-- 👨‍💻 All of my projects are available at [https://abhay3690.netlify.app/](https://abhay3690.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://abhay3690.netlify.app/)
 
 - 📫 How to reach me **abhaysuthar7777@gmail.com**
 
