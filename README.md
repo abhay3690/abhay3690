@@ -8,7 +8,7 @@
 
 - 🌱 I’m Working in **Spring-Boot, React.js**
 
-- 👨‍💻 All of my projects are available at (https://abhay3690.netlify.app/)
+- 👨‍💻 All of my projects are available at https://abhay3690.netlify.app/
 
 - 📫 How to reach me **abhaysuthar7777@gmail.com**
 
