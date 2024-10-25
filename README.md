@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at https://abhay3690.netlify.app/
 
-- 📫 How to reach me **abhaysuthar777@gmail.com**
+- 📫 How to reach me **abhaysuthar7777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
